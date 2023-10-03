@@ -12,15 +12,16 @@ Our project employs K-means clustering, a cutting-edge machine learning techniqu
 ## Notebooks
 
 This project is organized into three notebooks:
-1. **Data_exploration.ipynb:**: This notebook focuses on exploring and understanding the dataset. It includes data cleaning, preprocessing, and visualization.
+1. **Data_exploration.ipynb:** This notebook focuses on exploring and understanding the dataset. It includes data cleaning, preprocessing, and visualization.
 
-2. **Clustering_using_two_features.ipynb:**: This notebook focuses on performing KMeans clustering using two features from the dataset. It includes data preprocessing, model training, and visualization of the clusters.
+2. **Clustering_using_two_features.ipynb:**This notebook focuses on performing KMeans clustering using two features from the dataset. It includes data preprocessing, model training, and visualization of the clusters.
 
-3. **Multivariate_Clustering_in_CFS_Analysis.ipynb**: This notebook applies multivariate clustering in the analysis of the Consumer Finances Survey data. It includes advanced techniques for dimensionality reduction and visualization.
+3. **Multivariate_Clustering_in_CFS_Analysis.ipynb:** This notebook applies multivariate clustering in the analysis of the Consumer Finances Survey data. It includes advanced techniques for dimensionality reduction and visualization.
 
 ## Dataset
 
-The dataset used in this project is from the 2019 Survey of Consumer Finances (SCF). The SCF is a triennial survey conducted by the Federal Reserve Board that collects information about family incomes, net worth, credit use, and other financial outcomes. A new dataset is released every three years. You can access the dataset from the [Federal Reserve Board's website](^https://www.federalreserve.gov/econres/scfindex.htm^).
+The dataset used in this project is from the 2019 Survey of Consumer Finances (SCF). The SCF is a triennial survey conducted by the Federal Reserve Board that collects information about family incomes, net worth, credit use, and other financial outcomes. A new dataset is released every three years. You can access the dataset from the 
+[Federal Reserve Board's website](https://www.federalreserve.gov/econres/scfindex.htm).
 
 ## Results
 
@@ -35,7 +36,7 @@ To run the notebooks and perform customer segmentation on your own, follow these
 
 1. Clone this repository to your local machine:
 
-`https://github.com/Asyaahmedd/US_Customer_Segmentation_KMeans.git`
+   `https://github.com/Asyaahmedd/US_Customer_Segmentation_KMeans.git`
 
 
 2. Install the required dependencies (see the [Dependencies](#dependencies) section).
